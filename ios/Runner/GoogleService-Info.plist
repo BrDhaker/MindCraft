@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>835044332628-7q47vpmaorc77ro1j5odgit97ba7fh7q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.835044332628-7q47vpmaorc77ro1j5odgit97ba7fh7q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>835044332628-fus9t210rrrfo5f14oa3qgmkt9r8jbs0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDM8koN7ccO3lHSGlYoCvsosC0ZQ7Yk5Eg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>835044332628</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.mindcraft</string>
+	<key>PROJECT_ID</key>
+	<string>mindcraft-efea3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mindcraft-efea3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:835044332628:ios:24a1f23aa05660006609c1</string>
+</dict>
+</plist>
