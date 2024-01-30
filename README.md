@@ -12,7 +12,7 @@ flutter pub get
 flutter run
 ```
 
-## ScreenShot
+## ScreenShots
 
 <img src="assets/screenshot/1.jpg" height="500em" />&nbsp;
 <img src="assets/screenshot/2.jpg" height="500em" />&nbsp;
@@ -20,3 +20,4 @@ flutter run
 <img src="assets/screenshot/4.jpg" height="500em" />&nbsp;
 <img src="assets/screenshot/5.jpg" height="500em" />&nbsp;
 <img src="assets/screenshot/6.jpg" height="500em" />&nbsp;
+<img src="assets/screenshot/7.jpg" height="500em" />&nbsp;
