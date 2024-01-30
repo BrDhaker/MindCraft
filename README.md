@@ -1,2 +1,7 @@
 # MindCraft
-C'est une application mobile éducative et intéractive dans le cadre d'un projet pour autonomiser le systéme éducatif et les communautés scolaires en Tunisie.
+
+It's an educational and interactive mobile application as part of a project supported by UNESCO to empower the education system and school communities in Tunisia.
+
+## Getting Started
+
+

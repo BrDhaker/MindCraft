@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "835044332628",
+    "project_id": "mindcraft-efea3",
+    "storage_bucket": "mindcraft-efea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835044332628:android:faca4377be2fa6a26609c1",
+        "android_client_info": {
+          "package_name": "com.mycompany.mindcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835044332628-fus9t210rrrfo5f14oa3qgmkt9r8jbs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.mindcraft",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "835044332628-nq1uocqr03uqk6grc4j4rigd86f7sdsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEe-lfI_oJwG_SgNQzJ6kDYdbBY6dABdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835044332628-nq1uocqr03uqk6grc4j4rigd86f7sdsi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835044332628-7q47vpmaorc77ro1j5odgit97ba7fh7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mindcraft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
